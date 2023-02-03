@@ -2,8 +2,7 @@
 <head>
 </head>
 <body>
-    <p>This is Chemistry subject</p>
-    <div>hello</div>
-    <div>h2 + 02 = h20</div>
+    <h1>Subject</h1>
+    <div></div>
 </body>
 </html>
