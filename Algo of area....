@@ -1,0 +1,6 @@
+step1: start
+step2: input = radius
+step3: Area = 3.14 * radius * radius
+step4: Print Area
+step5: End
+
